@@ -47,7 +47,7 @@ Users can interact with the chatbot and receive guidance on how to handle variou
 
 1) **Clone the repository:**
     
-``` git clone https://github.com/KikiKadrefi/FirstAid_ChatBot.git ```
+``` git clone https://github.com/KiriakiKad/FirstAid-ChatBot.git ```
 
 
 2) **Run the program:**
